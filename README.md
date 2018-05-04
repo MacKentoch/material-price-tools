@@ -1,5 +1,7 @@
 # Material Price Tool
 
+![preview](./screenshot/preview.png)
+
 ## contents
 
 - react 16.3+
